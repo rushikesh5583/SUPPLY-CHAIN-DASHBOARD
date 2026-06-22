@@ -1,3 +1,4 @@
+# Supply Chain Dashboard project 
 Excited to share my Supply Chain Dashboard project built in Microsoft Excel!
 This dashboard provides insights into inventory management, order fulfillment, supplier performance, 
 shipping efficiency, and operational costs using Pivot Tables, Charts, and Slicers.
