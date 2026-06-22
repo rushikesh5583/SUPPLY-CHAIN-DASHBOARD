@@ -12,5 +12,8 @@ shipping efficiency, and operational costs using Pivot Tables, Charts, and Slice
 
 GitHub Repository: https://github.com/rushikesh5583?tab=repositories
 
+
+<img width="1382" height="515" alt="Screenshot 2026-06-22 123731" src="https://github.com/user-attachments/assets/e9002647-81a2-4ca4-96b1-1acf421f987a" />
+
 # Feedback and suggestions are welcome!
 #Excel #DataAnalytics #SupplyChain #Dashboard #BusinessIntelligence #DataVisualization
